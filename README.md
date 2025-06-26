@@ -7,4 +7,4 @@ For command line we went to https://gitingest.com/ and pointing it the command l
 - the [chatgpt4.o](chatgpt-try1.md) doc was generated chatgpt4.0 with "please provide documentation in markdown supported by github for using the command line tool"
    - the more detailed [doc](chatgpt-details.md) using "can you provide more detailed documentation with all the command options"
    - we got the following example [yaml](chatgpt-yaml.md) then asked "can you provide example yaml for a cluster"
-- the following was generated using [DeepWiki](https://deepwiki.com/innabox/fulfillment-cli/5.2-data-types) I then generated the following [documentation](deepwiki-nolnk.md) with the prompt "can you generate documentation for this repo using markdown suitable for github without links after code blocks"
+- the following was generated using [DeepWiki](https://deepwiki.com/innabox/fulfillment-cli/5.2-data-types) we then generated the following [documentation](deepwiki-nolnk.md) with the prompt "can you generate documentation for this repo using markdown suitable for github without links after code blocks"
